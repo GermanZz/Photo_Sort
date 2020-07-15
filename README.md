@@ -1,4 +1,4 @@
-# Photo_Sort
+# Photo Sort App
 Python tkinter based project for sorting of images
 
 ## No additional libraries required!
